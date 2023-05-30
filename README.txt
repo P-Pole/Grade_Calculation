@@ -1,0 +1,1 @@
+A quick tool for my fellow students to calculate their grade
